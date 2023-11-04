@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.17a3e717.js",
-    "index.html": "/index.html",
-    "main.17a3e717.js.map": "/static/js/main.17a3e717.js.map"
+    "main.js": "/FSO-part1-unicafe/static/js/main.7e571e8b.js",
+    "index.html": "/FSO-part1-unicafe/index.html",
+    "main.7e571e8b.js.map": "/FSO-part1-unicafe/static/js/main.7e571e8b.js.map"
   },
   "entrypoints": [
-    "static/js/main.17a3e717.js"
+    "static/js/main.7e571e8b.js"
   ]
 }
