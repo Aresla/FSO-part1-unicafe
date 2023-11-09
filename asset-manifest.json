@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/FSO-part1-unicafe/static/js/main.7e571e8b.js",
+    "main.css": "/FSO-part1-unicafe/static/css/main.a71eaa20.css",
+    "main.js": "/FSO-part1-unicafe/static/js/main.45a57181.js",
     "index.html": "/FSO-part1-unicafe/index.html",
-    "main.7e571e8b.js.map": "/FSO-part1-unicafe/static/js/main.7e571e8b.js.map"
+    "main.a71eaa20.css.map": "/FSO-part1-unicafe/static/css/main.a71eaa20.css.map",
+    "main.45a57181.js.map": "/FSO-part1-unicafe/static/js/main.45a57181.js.map"
   },
   "entrypoints": [
-    "static/js/main.7e571e8b.js"
+    "static/css/main.a71eaa20.css",
+    "static/js/main.45a57181.js"
   ]
 }
